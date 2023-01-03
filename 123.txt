@@ -1,17 +1,8 @@
 https://hackmd.io/@jiachengx/rkEJWRMwF
 https://docs.google.com/presentation/d/1t8ER39Fv0VLaatkS9G7Jq5ccU8kwwUmp/edit?usp=sharing&ouid=101217423857626031787&rtpof=true&sd=true
 
-domain 1
-將測試專案上所需的職能以知識轉移的方式提供給合作的學校系所並協助學生產生出相對應的研究報告. 
-負責教導新同事關於執行不同技術專案中所需擁有的技能. 舉凡: 如何在Mac OS/ Linux 環境中查看USB 接入系統後可以 及將所開發出的測試技術以知識轉移的方式轉移到生產工廠使用
-domain 2 
-負責管理並維護測試設備並將之文件化及將FW 更新到最新及確保隨時有人來借用的時候是可以使用的狀態. 
-domain 4 
-負責架設及維護網路測試專案所需使用到的各種有線及無線網路的測試環境及各種驗證協議，舉凡: Redius server/ AD server 
-domain 6
-負責執行手動及自動化測試以滿足ISO 17025 標準測試實驗室規範及行業標準中的的各種專案測試需求. 而在每次開測前都必須逐項與客戶核對所需執行的項目基本資料及對方期待的測試項目方向以滿足V&V 及內部測試基準
-負責製作各種滿足自動化流程測試的軟體工具以協助同事統一測試手法後降低失誤率及增加ROI
-負責開發各種半自動化流程測試工具及測試後的結果分析工具以協助後續資料分析 
-domain 8
-負責製作滿足內部及外部客戶的自動化檢測工具, 舉凡: 製作藍芽及無線網路訊號偵測器以針對場域中的藍芽訊號強度並於後台中劃出分布圖
-負責製作各種訊號類別轉換工具以滿足執行藍芽標準檢驗前的訊號不統一問題, 例如將 送測待測物輸出訊號介面為USB ，擷取訊號後並轉為BT測試儀可接受介面的訊號後再傳給機器 通常協會提供的驗證儀器只能接收USB訊號，因此必須將客戶端送測的待測物上不同介面或訊號的封包格式轉換成儀器可以判斷的形式後傳給儀器，再將儀器回傳的訊號以客戶待測物可接受的格式回傳.  
+根據不同測試專案來進行風險管理及處置 並且將相關知識轉移給相關的同事以確保符合相同的目標
+As different testing project requirement, I responsible for performing the risk management and risk treatment, afterwards I must do knowledge transfer to the related colleagues ensuring our goal are aligned.
+
+管理所有測試機台資產，確保其韌體保持在最新版本及任何測試人員都可以隨時使用他
+Responsible for managing all testbeds ensuring its firmware are keeping in the latest version and any tester can use its in any time.
